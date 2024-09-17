@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="cor_nome_app">#BF360C</color>
+    <color name="txt_title">#FFBF360C</color>
+    <color name="bac_logo">#151936</color>
+    <color name="backGroundApp">#C8E6C9</color>
+</resources>

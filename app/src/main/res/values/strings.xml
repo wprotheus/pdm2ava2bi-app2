@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">wellingtonbpneto_ranking</string>
+
+    <string name="txt_desc_imagem">Figura de um emoji</string>
+    <string name="txt_logo">Logomarca do IFTO</string>
+
+    <string name="btn_visualizar">VISUALIZAR</string>
+    <string name="btn_home">HOME</string>
+
+    <string name="txt_nr_ranking">PARTIDA</string>
+    <string name="txt_nome_jogador">JOGADOR</string>
+    <string name="txt_palpite_jogador">PALPITE</string>
+    <string name="txt_resultado_jogada">RESULTADO</string>
+    <string name="txt_ranking_nr">01</string>
+    <string name="txt_jogador_nome">Ana</string>
+    <string name="txt_jogador_palpite">33</string>
+    <string name="txt_jogada_resultado">Acertou</string>
+    <string name="txt_titulo">RANKING DAS PARTIDAS JOGADAS</string>
+
+</resources>
